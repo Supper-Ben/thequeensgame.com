@@ -1,6 +1,6 @@
 
 the queens game
-https://thwequeensgame.com
+https://thequeensgame.com
 
 # Queens Game
 
