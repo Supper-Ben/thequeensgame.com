@@ -1,3 +1,7 @@
+
+the queens game
+https://thwequeensgame.com
+
 # Queens Game
 
 Modernized Queens Game website, providing rich gaming experiences and social features.
@@ -37,7 +41,7 @@ Modernized Queens Game website, providing rich gaming experiences and social fea
 4. Start the game and challenge your friends!
 
 ## Contact Information
-For support or feedback, please contact: [info@ thequeensgame.com](mailto:info@thequeensgame.com) 
+For support or feedback, please contact: [info@thequeensgame.com](mailto:info@thequeensgame.com) 
 
 Thank you for choosing "Queens Game". Enjoy your game!
 
